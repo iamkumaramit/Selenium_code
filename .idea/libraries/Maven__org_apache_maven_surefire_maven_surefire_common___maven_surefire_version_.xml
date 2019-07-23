@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.maven.surefire:maven-surefire-common:${maven.surefire.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/surefire/maven-surefire-common/${maven.surefire.version}/maven-surefire-common-${maven.surefire.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/surefire/maven-surefire-common/${maven.surefire.version}/maven-surefire-common-${maven.surefire.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/surefire/maven-surefire-common/${maven.surefire.version}/maven-surefire-common-${maven.surefire.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

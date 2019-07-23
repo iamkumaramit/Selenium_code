@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jdbi:jdbi:${jdbi.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdbi/jdbi/${jdbi.version}/jdbi-${jdbi.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdbi/jdbi/${jdbi.version}/jdbi-${jdbi.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdbi/jdbi/${jdbi.version}/jdbi-${jdbi.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
