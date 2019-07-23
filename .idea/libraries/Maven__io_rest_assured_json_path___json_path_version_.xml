@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.rest-assured:json-path:${json-path.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/rest-assured/json-path/${json-path.version}/json-path-${json-path.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/rest-assured/json-path/${json-path.version}/json-path-${json-path.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/rest-assured/json-path/${json-path.version}/json-path-${json-path.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

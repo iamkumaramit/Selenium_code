@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.rest-assured:xml-path:${xml-path.version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/rest-assured/xml-path/${xml-path.version}/xml-path-${xml-path.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/rest-assured/xml-path/${xml-path.version}/xml-path-${xml-path.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/rest-assured/xml-path/${xml-path.version}/xml-path-${xml-path.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
